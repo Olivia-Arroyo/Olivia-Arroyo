@@ -32,9 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" height="50" alt="r logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain-wordmark.svg" height="50" alt="ubuntu" />
-  <img width="15" />
-          
-          
+  <img width="15" /> 
 </div>
 
 ###
