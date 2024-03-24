@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Software Engineer | Data Analyst | MS in Computer Science (August '24)</p>
+<p align="left">MS in Computer Science (August '24) | Concentration in Data Analysis </p>
 
 ###
 
