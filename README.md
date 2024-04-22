@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">MS in Computer Science (August '24) | Concentration in Data Analytics </p>
+<p align="left">MS in Computer Science (August '24) | Concentration in Data Science </p>
 <p align="left">New York, NY </p>
 
 ###
