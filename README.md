@@ -11,7 +11,7 @@
 ###
 
 <p align="left">MS in Computer Science (August '24) | Concentration in Data Analytics </p>
-<p align="left">New York, NY | Syracuse, NY </p>
+<p align="left">New York, NY </p>
 
 ###
 
