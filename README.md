@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">MS in Computer Science </p>
-<p align="left">New York, NY </p>
+<p align="left">MS in Computer Science | New York, NY</p>
 
 ###
 
